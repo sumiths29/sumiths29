@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumith S</h1>
-<h3 align="center">A passionate Test Automation Engineer from Bangalore, Karnataka, IndiaIndia</h3>
+<h3 align="center">A passionate Test Automation Engineer from Bangalore, Karnataka, India</h3>
 
 - 🌱 I’m currently learning **Katalon, Tosca, Cypress**
 
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/sumiths_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumiths_29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumiths" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumiths" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sumiths" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sumiths" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6688483/sumith-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sumiths" height="30" width="40" /></a>
 <a href="https://fb.com/sumiths29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumiths29" height="30" width="40" /></a>
 <a href="https://instagram.com/s_sumith_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_sumith_" height="30" width="40" /></a>
 </p>
